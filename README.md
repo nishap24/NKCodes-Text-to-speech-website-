@@ -82,7 +82,9 @@ Note: The provided code serves as a foundation for a basic text-to-speech conver
 - Speech playback: By clicking the "LISTEN" button, the application converts the entered text into speech and plays it back using the selected voice.
 
 
+## Deployment Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aa5dcea8-624e-4dcd-8e8c-c8b33dccff29/deploy-status)](https://app.netlify.com/sites/kanasu-text-to-speech-website/deploys)
 
 
 ## Contributing
